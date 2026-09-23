@@ -1,7 +1,1 @@
-streamlit
-pillow
-numpy
-requests
-cryptography
-eth-account
 streamlit-javascripthttps
